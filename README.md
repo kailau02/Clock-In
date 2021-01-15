@@ -1,1 +1,2 @@
 # Clock-In
+This is an iOS app that I created in swift through Xcode. It is intended for me my siblings to track the kind of work they have been doing for our parents (e.g. chores, grocery shopping, etc.). Our work is tracked and calculated to a dollar value. At the end of the month, we show our parents the money we earned, they write us checks, and we restart our progress. Check it out and let me know if there is anything I could do to improve it or make it generalized for the iOS Appstore!
